@@ -12,3 +12,6 @@ Learning project
 
 # Homework 5 - Linear Regression
 05 Linear Regression/Homework/Hillel_ML_HW_05_Liner_Regression.ipynb
+
+# Homework 6 - Encoders
+06 Encoders/Homework/Hillel_ML_06_Encoders.ipynb
