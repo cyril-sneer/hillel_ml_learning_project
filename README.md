@@ -15,3 +15,6 @@ Learning project
 
 # Homework 6 - Encoders
 06 Encoders/Homework/Hillel_ML_06_Encoders.ipynb
+
+# Homework 7 - Metric model
+07 Metric model (regression)/Homework/Hillel_ML_HW_07_Metric_model.ipynb
