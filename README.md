@@ -18,3 +18,6 @@ Learning project
 
 # Homework 7 - Metric model
 07 Metric model (regression)/Homework/Hillel_ML_HW_07_Metric_model.ipynb
+
+# Homework 8 - Class imbalance
+08 Class imbalance/Homework/Hillel_ML_HW_08_Class_imbalance.ipynb
