@@ -21,3 +21,6 @@ Learning project
 
 # Homework 8 - Class imbalance
 08 Class imbalance/Homework/Hillel_ML_HW_08_Class_imbalance.ipynb
+
+# Homework 9 - Decision trees
+09 Decision trees/Homework/Hillel_ML_HW_09_Decision_trees.ipynb
