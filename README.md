@@ -24,3 +24,6 @@ Learning project
 
 # Homework 9 - Decision trees
 09 Decision trees/Homework/Hillel_ML_HW_09_Decision_trees.ipynb
+
+# Homework 10 - Ensemble methods
+10 Ensemble methods/Homework/Hillel_ML_HW_10_Ensemble_methods.ipynb
