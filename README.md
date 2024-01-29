@@ -27,3 +27,6 @@ Learning project
 
 # Homework 10 - Ensemble methods
 10 Ensemble methods/Homework/Hillel_ML_HW_10_Ensemble_methods.ipynb
+
+# Homework 11 - Dimension reduction
+11 Dimension reduction/Homework/Hillel_ML_HW_11_Dimension_reduction.ipynb

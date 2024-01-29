@@ -1,8 +1,13 @@
+import pandas as pd
+import numpy as np
+# import matplotlib.pyplot as plt
+data = pd.DataFrame()
+
 from sklearn.preprocessing import MinMaxScaler
 scaler = MinMaxScaler()
-data_rescaled = scaler.fit_transform(data_rescaled)
+data_rescaled = scaler.fit_transform(data)
 
-#95% of variance
+# 95% of variance
 from sklearn.decomposition import PCA
 pca = PCA(n_components = 0.3)
 pca.fit(data_rescaled)
@@ -10,7 +15,7 @@ reduced = pca.transform(data_rescaled)
 
 pca = PCA().fit(data_rescaled)
 
-%matplotlib inline
+# %matplotlib inline
 import matplotlib.pyplot as plt
 plt.rcParams["figure.figsize"] = (12,6)
 
