@@ -30,3 +30,6 @@ Learning project
 
 # Homework 11 - Dimension reduction
 11 Dimension reduction/Homework/Hillel_ML_HW_11_Dimension_reduction.ipynb
+
+# Homework 12 - Clustering
+11 Clustering/Homework/Hillel_ML_HW_12_Clustering.ipynb
