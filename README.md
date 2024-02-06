@@ -32,4 +32,7 @@ Learning project
 11 Dimension reduction/Homework/Hillel_ML_HW_11_Dimension_reduction.ipynb
 
 # Homework 12 - Clustering
-11 Clustering/Homework/Hillel_ML_HW_12_Clustering.ipynb
+12 Clustering/Homework/Hillel_ML_HW_12_Clustering.ipynb
+
+# Homework 13 - Time series
+13 Time series/Homework/Hillel_ML_HW_13_Time_series.ipynb
