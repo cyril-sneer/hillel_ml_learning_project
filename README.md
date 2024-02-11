@@ -36,3 +36,6 @@ Learning project
 
 # Homework 13 - Time series
 13 Time series/Homework/Hillel_ML_HW_13_Time_series.ipynb
+
+# Homework 16 - Text. Non vector methods
+16 Text. Non vector methods/Homework/Hillel_ML_HW_16_Text_non_vector_methods.ipynb
