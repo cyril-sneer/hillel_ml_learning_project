@@ -39,3 +39,6 @@ Learning project
 
 # Homework 16 - Text. Non vector methods
 16 Text. Non vector methods/Homework/Hillel_ML_HW_16_Text_non_vector_methods.ipynb
+
+# Homework 17 - Text. spaCy
+17 Text. spaCy/Homework/Hillel_ML_HW_17_Text_spaCy.ipynb
